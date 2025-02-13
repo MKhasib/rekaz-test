@@ -1,2 +1,6 @@
-# rekaz-test
-A simple registeration cypress test project to rekaz website
+# rekaz testing
+An initial skeleton to test succesfful cypress registeration on rekaz website
+
+## How to run
+`npm i`
+`npx cypress open`
